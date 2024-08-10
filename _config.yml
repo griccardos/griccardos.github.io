@@ -7,3 +7,24 @@ url: https://griccardos.github.io
 baseurl: ""
 permalink: pretty
 repo: https://github.com/griccardos/griccardos.github.io
+
+collections:
+  projects:
+    output: true
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-gist
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  sourcemap: never
+
+autopages:
+  enabled: false
