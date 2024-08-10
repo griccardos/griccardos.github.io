@@ -8,6 +8,4 @@ baseurl: ""
 permalink: pretty
 repo: https://github.com/griccardos/griccardos.github.io
 
-sass:
-  sass_dir: _sass
-  sourcemap: never
+custom_css: /assets/css/custom.css
