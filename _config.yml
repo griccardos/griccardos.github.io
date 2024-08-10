@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
-title: griccardos's homepage
+title: griccardos
 description: projects
+taglong: Software engineer
+tagshort: Projects
+
+url: https://griccardos.github.io
+baseurl: ""
+permalink: pretty
+repo: https://github.com/griccardos/griccardos.github.io
